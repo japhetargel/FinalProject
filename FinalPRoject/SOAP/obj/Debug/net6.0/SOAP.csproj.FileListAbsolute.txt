@@ -1,0 +1,5 @@
+C:\Users\markjaphet.argel\source\repos\FinalProject\FinalPRoject\SOAP\obj\Debug\net6.0\SOAP.csproj.AssemblyReference.cache
+C:\Users\markjaphet.argel\source\repos\FinalProject\FinalPRoject\SOAP\obj\Debug\net6.0\SOAP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\markjaphet.argel\source\repos\FinalProject\FinalPRoject\SOAP\obj\Debug\net6.0\SOAP.AssemblyInfoInputs.cache
+C:\Users\markjaphet.argel\source\repos\FinalProject\FinalPRoject\SOAP\obj\Debug\net6.0\SOAP.AssemblyInfo.cs
+C:\Users\markjaphet.argel\source\repos\FinalProject\FinalPRoject\SOAP\obj\Debug\net6.0\SOAP.csproj.CoreCompileInputs.cache
